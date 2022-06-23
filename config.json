@@ -1,0 +1,10 @@
+{
+    "phone_number": "4804374535",
+    "email": "bericb@gmail.com",
+    "system_alert": true,
+    "alert_email": false,
+    "alert_phone_number": false,
+    "send_reports": false,
+    "logs": false,
+    "machine": "macOS (Darwin)"
+}
